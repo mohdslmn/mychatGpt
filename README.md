@@ -29,5 +29,7 @@ Before getting started with the Codex project, make sure you have the following 
    ```bash
    git clone https://github.com/your-username/codex.git
 
-Start the client (front-end) for your application: npm run dev
-Start the backend server using Nodemon: npm run server
+#Start the client (front-end) for your application:
+npm run dev
+#Start the backend server using Nodemon:
+npm run server
