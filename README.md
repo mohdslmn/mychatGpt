@@ -2,8 +2,6 @@
 
 # Codex - My Own ChatGPT
 
-![Codex Logo]
-
 Codex is a project that leverages the OpenAI API to create a chatbot powered by GPT-3. This chatbot can have interactive conversations and generate human-like text responses. It utilizes Node.js and Express for the backend, making it easy to run and integrate with various applications.
 
 ## Features
